@@ -1,0 +1,5 @@
+需求：
+开发一款《王者荣耀》，支持多操作系统（linux和windows）和多控制方式操作控制和界面控制，
+并提供相应的工厂类来封装这些类的初始化过程
+
+http://blog.battcn.com/2017/10/24/java/design-pattern/factory-pattern/
